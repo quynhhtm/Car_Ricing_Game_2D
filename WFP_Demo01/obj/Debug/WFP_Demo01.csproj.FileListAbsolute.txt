@@ -1,0 +1,66 @@
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe.config
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.pdb
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.AssemblyReference.cache
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Form1.resources
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Properties.Resources.resources
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.GenerateResource.cache
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.exe
+C:\Users\Trinh Manh Quynh\source\repos\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.pdb
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe.config
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.pdb
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.AssemblyReference.cache
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Form1.resources
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Properties.Resources.resources
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.GenerateResource.cache
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.exe
+C:\Users\Trinh Manh Quynh\Desktop\Demo\Demo\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.pdb
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe.config
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.pdb
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.AssemblyReference.cache
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.SuggestedBindingRedirects.cache
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Form1.resources
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Properties.Resources.resources
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.GenerateResource.cache
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.CoreCompileInputs.cache
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.exe
+D:\Winform\giuaki\GameDemo03\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.pdb
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe.config
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.pdb
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.AssemblyReference.cache
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.SuggestedBindingRedirects.cache
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Form1.resources
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Properties.Resources.resources
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.GenerateResource.cache
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.CoreCompileInputs.cache
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.exe
+D:\Winform\giuaki\Game_Demo04\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.pdb
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe.config
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.pdb
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.AssemblyReference.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.SuggestedBindingRedirects.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Form1.resources
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Properties.Resources.resources
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.GenerateResource.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.CoreCompileInputs.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.exe
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh - Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.pdb
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe.config
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.exe
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\bin\Debug\WFP_Demo01.pdb
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.AssemblyReference.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.SuggestedBindingRedirects.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Form1.resources
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.Properties.Resources.resources
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.GenerateResource.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.csproj.CoreCompileInputs.cache
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.exe
+D:\Winform\Giua ki\21110624 - Trinh Manh Quynh\Bao cao nhom\Source code\WFP_Demo01\WFP_Demo01\obj\Debug\WFP_Demo01.pdb
